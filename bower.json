@@ -1,8 +1,8 @@
 {
   "name": "maxflow",
-  "homepage": "http://isabek.github.io/max-flow/",
+  "homepage": "https://github.com/karanm21/Max_Flow/",
   "authors": [
-    "Isabek <isabek2309@gmail.com>"
+    "karanm21 <karnmundhra@gmail.com>"
   ],
   "description": "Max Flow Visualizer",
   "license": "MIT",
